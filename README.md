@@ -165,7 +165,7 @@ npm run test:e2e
 
 ## 👩‍💻 Author
 
-**Kavindi Gamage** — Frontend Developer & Data Analyst from Sri Lanka 🇱🇰
+**Kavindi Gamage**  
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-kavindi.netlify.app-purple?style=flat-square)](https://kavindi.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/kavindi-gamage-815049386)
